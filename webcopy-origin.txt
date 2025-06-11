@@ -1,0 +1,1056 @@
+Uri: https://fonts.googleapis.com/css2?family=Barlow:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap
+File Name: C:\VERSAI TECHNOLOGY\06.07.2025\html.themewant.com\css2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/barlow/v12/7cHpv4kjgoGqM7EPCw.ttf
+File Name: C:\VERSAI TECHNOLOGY\06.07.2025\html.themewant.com\s\barlow\v12\7cHpv4kjgoGqM7EPCw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/barlow/v12/7cHqv4kjgoGqM7E30-8c4A.ttf
+File Name: C:\VERSAI TECHNOLOGY\06.07.2025\html.themewant.com\s\barlow\v12\7cHqv4kjgoGqM7E30-8c4A.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/barlow/v12/7cHqv4kjgoGqM7E3j-wc4A.ttf
+File Name: C:\VERSAI TECHNOLOGY\06.07.2025\html.themewant.com\s\barlow\v12\7cHqv4kjgoGqM7E3j-wc4A.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/barlow/v12/7cHqv4kjgoGqM7E3p-kc4A.ttf
+File Name: C:\VERSAI TECHNOLOGY\06.07.2025\html.themewant.com\s\barlow\v12\7cHqv4kjgoGqM7E3p-kc4A.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/barlow/v12/7cHqv4kjgoGqM7E3q-0c4A.ttf
+File Name: C:\VERSAI TECHNOLOGY\06.07.2025\html.themewant.com\s\barlow\v12\7cHqv4kjgoGqM7E3q-0c4A.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/barlow/v12/7cHqv4kjgoGqM7E3t-4c4A.ttf
+File Name: C:\VERSAI TECHNOLOGY\06.07.2025\html.themewant.com\s\barlow\v12\7cHqv4kjgoGqM7E3t-4c4A.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/barlow/v12/7cHqv4kjgoGqM7E3w-oc4A.ttf
+File Name: C:\VERSAI TECHNOLOGY\06.07.2025\html.themewant.com\s\barlow\v12\7cHqv4kjgoGqM7E3w-oc4A.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/barlow/v12/7cHqv4kjgoGqM7E3_-gc4A.ttf
+File Name: C:\VERSAI TECHNOLOGY\06.07.2025\html.themewant.com\s\barlow\v12\7cHqv4kjgoGqM7E3_-gc4A.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/barlow/v12/7cHrv4kjgoGqM7E3b8s8.ttf
+File Name: C:\VERSAI TECHNOLOGY\06.07.2025\html.themewant.com\s\barlow\v12\7cHrv4kjgoGqM7E3b8s8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/barlow/v12/7cHrv4kjgoGqM7E_Ccs8.ttf
+File Name: C:\VERSAI TECHNOLOGY\06.07.2025\html.themewant.com\s\barlow\v12\7cHrv4kjgoGqM7E_Ccs8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/barlow/v12/7cHsv4kjgoGqM7E_CfO451op.ttf
+File Name: C:\VERSAI TECHNOLOGY\06.07.2025\html.themewant.com\s\barlow\v12\7cHsv4kjgoGqM7E_CfO451op.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/barlow/v12/7cHsv4kjgoGqM7E_CfOA5Vop.ttf
+File Name: C:\VERSAI TECHNOLOGY\06.07.2025\html.themewant.com\s\barlow\v12\7cHsv4kjgoGqM7E_CfOA5Vop.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/barlow/v12/7cHsv4kjgoGqM7E_CfOc5lop.ttf
+File Name: C:\VERSAI TECHNOLOGY\06.07.2025\html.themewant.com\s\barlow\v12\7cHsv4kjgoGqM7E_CfOc5lop.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/barlow/v12/7cHsv4kjgoGqM7E_CfOQ4lop.ttf
+File Name: C:\VERSAI TECHNOLOGY\06.07.2025\html.themewant.com\s\barlow\v12\7cHsv4kjgoGqM7E_CfOQ4lop.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/barlow/v12/7cHsv4kjgoGqM7E_CfP04Vop.ttf
+File Name: C:\VERSAI TECHNOLOGY\06.07.2025\html.themewant.com\s\barlow\v12\7cHsv4kjgoGqM7E_CfP04Vop.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/barlow/v12/7cHsv4kjgoGqM7E_CfPI41op.ttf
+File Name: C:\VERSAI TECHNOLOGY\06.07.2025\html.themewant.com\s\barlow\v12\7cHsv4kjgoGqM7E_CfPI41op.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/barlow/v12/7cHsv4kjgoGqM7E_CfPk5Fop.ttf
+File Name: C:\VERSAI TECHNOLOGY\06.07.2025\html.themewant.com\s\barlow\v12\7cHsv4kjgoGqM7E_CfPk5Fop.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/barlow/v12/7cHtv4kjgoGqM7E_CfNYwHo.ttf
+File Name: C:\VERSAI TECHNOLOGY\06.07.2025\html.themewant.com\s\barlow\v12\7cHtv4kjgoGqM7E_CfNYwHo.ttf
+Content Type: font/ttf
+
+Uri: https://html.themewant.com/ekomart/404.html
+File Name: C:\VERSAI TECHNOLOGY\06.07.2025\html.themewant.com\ekomart\404.html
+Content Type: text/html
+
+Uri: https://html.themewant.com/ekomart/about.html
+File Name: C:\VERSAI TECHNOLOGY\06.07.2025\html.themewant.com\ekomart\about.html
+Content Type: text/html
+
+Uri: https://html.themewant.com/ekomart/account.html
+File Name: C:\VERSAI TECHNOLOGY\06.07.2025\html.themewant.com\ekomart\account.html
+Content Type: text/html
+
+Uri: https://html.themewant.com/ekomart/assets/css/plugins.css
+File Name: C:\VERSAI TECHNOLOGY\06.07.2025\html.themewant.com\ekomart\assets\css\plugins.css
+Content Type: text/css
+
+Uri: https://html.themewant.com/ekomart/assets/css/style.css
+File Name: C:\VERSAI TECHNOLOGY\06.07.2025\html.themewant.com\ekomart\assets\css\style.css
+Content Type: text/css
+
+Uri: https://html.themewant.com/ekomart/assets/fonts/fa-brands-400.ttf
+File Name: C:\VERSAI TECHNOLOGY\06.07.2025\html.themewant.com\ekomart\assets\fonts\fa-brands-400.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://html.themewant.com/ekomart/assets/fonts/fa-brands-400.woff2
+File Name: C:\VERSAI TECHNOLOGY\06.07.2025\html.themewant.com\ekomart\assets\fonts\fa-brands-400.woff2
+Content Type: font/woff2
+
+Uri: https://html.themewant.com/ekomart/assets/fonts/fa-duotone-900.ttf
+File Name: C:\VERSAI TECHNOLOGY\06.07.2025\html.themewant.com\ekomart\assets\fonts\fa-duotone-900.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://html.themewant.com/ekomart/assets/fonts/fa-duotone-900.woff2
+File Name: C:\VERSAI TECHNOLOGY\06.07.2025\html.themewant.com\ekomart\assets\fonts\fa-duotone-900.woff2
+Content Type: font/woff2
+
+Uri: https://html.themewant.com/ekomart/assets/fonts/fa-light-300.ttf
+File Name: C:\VERSAI TECHNOLOGY\06.07.2025\html.themewant.com\ekomart\assets\fonts\fa-light-300.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://html.themewant.com/ekomart/assets/fonts/fa-light-300.woff2
+File Name: C:\VERSAI TECHNOLOGY\06.07.2025\html.themewant.com\ekomart\assets\fonts\fa-light-300.woff2
+Content Type: font/woff2
+
+Uri: https://html.themewant.com/ekomart/assets/fonts/fa-regular-400.ttf
+File Name: C:\VERSAI TECHNOLOGY\06.07.2025\html.themewant.com\ekomart\assets\fonts\fa-regular-400.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://html.themewant.com/ekomart/assets/fonts/fa-regular-400.woff2
+File Name: C:\VERSAI TECHNOLOGY\06.07.2025\html.themewant.com\ekomart\assets\fonts\fa-regular-400.woff2
+Content Type: font/woff2
+
+Uri: https://html.themewant.com/ekomart/assets/fonts/fa-solid-900.ttf
+File Name: C:\VERSAI TECHNOLOGY\06.07.2025\html.themewant.com\ekomart\assets\fonts\fa-solid-900.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://html.themewant.com/ekomart/assets/fonts/fa-solid-900.woff2
+File Name: C:\VERSAI TECHNOLOGY\06.07.2025\html.themewant.com\ekomart\assets\fonts\fa-solid-900.woff2
+Content Type: font/woff2
+
+Uri: https://html.themewant.com/ekomart/assets/fonts/fa-thin-100.ttf
+File Name: C:\VERSAI TECHNOLOGY\06.07.2025\html.themewant.com\ekomart\assets\fonts\fa-thin-100.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://html.themewant.com/ekomart/assets/fonts/fa-thin-100.woff2
+File Name: C:\VERSAI TECHNOLOGY\06.07.2025\html.themewant.com\ekomart\assets\fonts\fa-thin-100.woff2
+Content Type: font/woff2
+
+Uri: https://html.themewant.com/ekomart/assets/fonts/fa-v4compatibility.ttf
+File Name: C:\VERSAI TECHNOLOGY\06.07.2025\html.themewant.com\ekomart\assets\fonts\fa-v4compatibility.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://html.themewant.com/ekomart/assets/fonts/fa-v4compatibility.woff2
+File Name: C:\VERSAI TECHNOLOGY\06.07.2025\html.themewant.com\ekomart\assets\fonts\fa-v4compatibility.woff2
+Content Type: font/woff2
+
+Uri: https://html.themewant.com/ekomart/assets/images/about/01.jpg
+File Name: C:\VERSAI TECHNOLOGY\06.07.2025\html.themewant.com\ekomart\assets\images\about\01.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themewant.com/ekomart/assets/images/about/02.jpg
+File Name: C:\VERSAI TECHNOLOGY\06.07.2025\html.themewant.com\ekomart\assets\images\about\02.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themewant.com/ekomart/assets/images/add/01.jpg
+File Name: C:\VERSAI TECHNOLOGY\06.07.2025\html.themewant.com\ekomart\assets\images\add\01.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themewant.com/ekomart/assets/images/banner/01.webp
+File Name: C:\VERSAI TECHNOLOGY\06.07.2025\html.themewant.com\ekomart\assets\images\banner\01.webp
+Content Type: image/webp
+
+Uri: https://html.themewant.com/ekomart/assets/images/banner/02.jpg
+File Name: C:\VERSAI TECHNOLOGY\06.07.2025\html.themewant.com\ekomart\assets\images\banner\02.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themewant.com/ekomart/assets/images/banner/03.webp
+File Name: C:\VERSAI TECHNOLOGY\06.07.2025\html.themewant.com\ekomart\assets\images\banner\03.webp
+Content Type: image/webp
+
+Uri: https://html.themewant.com/ekomart/assets/images/banner/04.jpg
+File Name: C:\VERSAI TECHNOLOGY\06.07.2025\html.themewant.com\ekomart\assets\images\banner\04.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themewant.com/ekomart/assets/images/banner/05.jpg
+File Name: C:\VERSAI TECHNOLOGY\06.07.2025\html.themewant.com\ekomart\assets\images\banner\05.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themewant.com/ekomart/assets/images/banner/06.jpg
+File Name: C:\VERSAI TECHNOLOGY\06.07.2025\html.themewant.com\ekomart\assets\images\banner\06.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themewant.com/ekomart/assets/images/banner/07.jpg
+File Name: C:\VERSAI TECHNOLOGY\06.07.2025\html.themewant.com\ekomart\assets\images\banner\07.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themewant.com/ekomart/assets/images/banner/08.webp
+File Name: C:\VERSAI TECHNOLOGY\06.07.2025\html.themewant.com\ekomart\assets\images\banner\08.webp
+Content Type: image/webp
+
+Uri: https://html.themewant.com/ekomart/assets/images/banner/09.webp
+File Name: C:\VERSAI TECHNOLOGY\06.07.2025\html.themewant.com\ekomart\assets\images\banner\09.webp
+Content Type: image/webp
+
+Uri: https://html.themewant.com/ekomart/assets/images/banner/shape/close.png
+File Name: C:\VERSAI TECHNOLOGY\06.07.2025\html.themewant.com\ekomart\assets\images\banner\shape\close.png
+Content Type: image/png
+
+Uri: https://html.themewant.com/ekomart/assets/images/banner/shape/zoom.png
+File Name: C:\VERSAI TECHNOLOGY\06.07.2025\html.themewant.com\ekomart\assets\images\banner\shape\zoom.png
+Content Type: image/png
+
+Uri: https://html.themewant.com/ekomart/assets/images/banner/transparent/01.png
+File Name: C:\VERSAI TECHNOLOGY\06.07.2025\html.themewant.com\ekomart\assets\images\banner\transparent\01.png
+Content Type: image/png
+
+Uri: https://html.themewant.com/ekomart/assets/images/best-seller/01.png
+File Name: C:\VERSAI TECHNOLOGY\06.07.2025\html.themewant.com\ekomart\assets\images\best-seller\01.png
+Content Type: image/png
+
+Uri: https://html.themewant.com/ekomart/assets/images/best-seller/02.png
+File Name: C:\VERSAI TECHNOLOGY\06.07.2025\html.themewant.com\ekomart\assets\images\best-seller\02.png
+Content Type: image/png
+
+Uri: https://html.themewant.com/ekomart/assets/images/best-seller/03.png
+File Name: C:\VERSAI TECHNOLOGY\06.07.2025\html.themewant.com\ekomart\assets\images\best-seller\03.png
+Content Type: image/png
+
+Uri: https://html.themewant.com/ekomart/assets/images/best-seller/04.png
+File Name: C:\VERSAI TECHNOLOGY\06.07.2025\html.themewant.com\ekomart\assets\images\best-seller\04.png
+Content Type: image/png
+
+Uri: https://html.themewant.com/ekomart/assets/images/best-seller/05.png
+File Name: C:\VERSAI TECHNOLOGY\06.07.2025\html.themewant.com\ekomart\assets\images\best-seller\05.png
+Content Type: image/png
+
+Uri: https://html.themewant.com/ekomart/assets/images/best-seller/06.png
+File Name: C:\VERSAI TECHNOLOGY\06.07.2025\html.themewant.com\ekomart\assets\images\best-seller\06.png
+Content Type: image/png
+
+Uri: https://html.themewant.com/ekomart/assets/images/blog/01.jpg
+File Name: C:\VERSAI TECHNOLOGY\06.07.2025\html.themewant.com\ekomart\assets\images\blog\01.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themewant.com/ekomart/assets/images/blog/01.png
+File Name: C:\VERSAI TECHNOLOGY\06.07.2025\html.themewant.com\ekomart\assets\images\blog\01.png
+Content Type: image/png
+
+Uri: https://html.themewant.com/ekomart/assets/images/blog/02.jpg
+File Name: C:\VERSAI TECHNOLOGY\06.07.2025\html.themewant.com\ekomart\assets\images\blog\02.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themewant.com/ekomart/assets/images/blog/02.png
+File Name: C:\VERSAI TECHNOLOGY\06.07.2025\html.themewant.com\ekomart\assets\images\blog\02.png
+Content Type: image/png
+
+Uri: https://html.themewant.com/ekomart/assets/images/blog/03.jpg
+File Name: C:\VERSAI TECHNOLOGY\06.07.2025\html.themewant.com\ekomart\assets\images\blog\03.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themewant.com/ekomart/assets/images/blog/03.png
+File Name: C:\VERSAI TECHNOLOGY\06.07.2025\html.themewant.com\ekomart\assets\images\blog\03.png
+Content Type: image/png
+
+Uri: https://html.themewant.com/ekomart/assets/images/blog/04.jpg
+File Name: C:\VERSAI TECHNOLOGY\06.07.2025\html.themewant.com\ekomart\assets\images\blog\04.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themewant.com/ekomart/assets/images/blog/05.jpg
+File Name: C:\VERSAI TECHNOLOGY\06.07.2025\html.themewant.com\ekomart\assets\images\blog\05.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themewant.com/ekomart/assets/images/blog/06.jpg
+File Name: C:\VERSAI TECHNOLOGY\06.07.2025\html.themewant.com\ekomart\assets\images\blog\06.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themewant.com/ekomart/assets/images/blog/07.jpg
+File Name: C:\VERSAI TECHNOLOGY\06.07.2025\html.themewant.com\ekomart\assets\images\blog\07.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themewant.com/ekomart/assets/images/blog/08.jpg
+File Name: C:\VERSAI TECHNOLOGY\06.07.2025\html.themewant.com\ekomart\assets\images\blog\08.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themewant.com/ekomart/assets/images/blog/10.jpg
+File Name: C:\VERSAI TECHNOLOGY\06.07.2025\html.themewant.com\ekomart\assets\images\blog\10.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themewant.com/ekomart/assets/images/blog/11.jpg
+File Name: C:\VERSAI TECHNOLOGY\06.07.2025\html.themewant.com\ekomart\assets\images\blog\11.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themewant.com/ekomart/assets/images/blog/12.jpg
+File Name: C:\VERSAI TECHNOLOGY\06.07.2025\html.themewant.com\ekomart\assets\images\blog\12.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themewant.com/ekomart/assets/images/blog/13.jpg
+File Name: C:\VERSAI TECHNOLOGY\06.07.2025\html.themewant.com\ekomart\assets\images\blog\13.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themewant.com/ekomart/assets/images/blog/17.jpg
+File Name: C:\VERSAI TECHNOLOGY\06.07.2025\html.themewant.com\ekomart\assets\images\blog\17.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themewant.com/ekomart/assets/images/blog/18.jpg
+File Name: C:\VERSAI TECHNOLOGY\06.07.2025\html.themewant.com\ekomart\assets\images\blog\18.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themewant.com/ekomart/assets/images/blog/19.jpg
+File Name: C:\VERSAI TECHNOLOGY\06.07.2025\html.themewant.com\ekomart\assets\images\blog\19.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themewant.com/ekomart/assets/images/blog/20.jpg
+File Name: C:\VERSAI TECHNOLOGY\06.07.2025\html.themewant.com\ekomart\assets\images\blog\20.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themewant.com/ekomart/assets/images/blog/21.jpg
+File Name: C:\VERSAI TECHNOLOGY\06.07.2025\html.themewant.com\ekomart\assets\images\blog\21.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themewant.com/ekomart/assets/images/blog/22.jpg
+File Name: C:\VERSAI TECHNOLOGY\06.07.2025\html.themewant.com\ekomart\assets\images\blog\22.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themewant.com/ekomart/assets/images/blog/23.jpg
+File Name: C:\VERSAI TECHNOLOGY\06.07.2025\html.themewant.com\ekomart\assets\images\blog\23.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themewant.com/ekomart/assets/images/blog/thumb/01.jpg
+File Name: C:\VERSAI TECHNOLOGY\06.07.2025\html.themewant.com\ekomart\assets\images\blog\thumb\01.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themewant.com/ekomart/assets/images/blog/thumb/02.jpg
+File Name: C:\VERSAI TECHNOLOGY\06.07.2025\html.themewant.com\ekomart\assets\images\blog\thumb\02.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themewant.com/ekomart/assets/images/blog/thumb/03.jpg
+File Name: C:\VERSAI TECHNOLOGY\06.07.2025\html.themewant.com\ekomart\assets\images\blog\thumb\03.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themewant.com/ekomart/assets/images/blog/thumb/04.jpg
+File Name: C:\VERSAI TECHNOLOGY\06.07.2025\html.themewant.com\ekomart\assets\images\blog\thumb\04.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themewant.com/ekomart/assets/images/blog/thumb/05.jpg
+File Name: C:\VERSAI TECHNOLOGY\06.07.2025\html.themewant.com\ekomart\assets\images\blog\thumb\05.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themewant.com/ekomart/assets/images/blog/thumb/06.jpg
+File Name: C:\VERSAI TECHNOLOGY\06.07.2025\html.themewant.com\ekomart\assets\images\blog\thumb\06.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themewant.com/ekomart/assets/images/blog/thumb/07.jpg
+File Name: C:\VERSAI TECHNOLOGY\06.07.2025\html.themewant.com\ekomart\assets\images\blog\thumb\07.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themewant.com/ekomart/assets/images/blog/thumb/08.jpg
+File Name: C:\VERSAI TECHNOLOGY\06.07.2025\html.themewant.com\ekomart\assets\images\blog\thumb\08.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themewant.com/ekomart/assets/images/blog/thumb/09.jpg
+File Name: C:\VERSAI TECHNOLOGY\06.07.2025\html.themewant.com\ekomart\assets\images\blog\thumb\09.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themewant.com/ekomart/assets/images/blog/thumb/10.jpg
+File Name: C:\VERSAI TECHNOLOGY\06.07.2025\html.themewant.com\ekomart\assets\images\blog\thumb\10.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themewant.com/ekomart/assets/images/blog/thumb/11.jpg
+File Name: C:\VERSAI TECHNOLOGY\06.07.2025\html.themewant.com\ekomart\assets\images\blog\thumb\11.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themewant.com/ekomart/assets/images/blog/thumb/12.jpg
+File Name: C:\VERSAI TECHNOLOGY\06.07.2025\html.themewant.com\ekomart\assets\images\blog\thumb\12.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themewant.com/ekomart/assets/images/category/01.jpg
+File Name: C:\VERSAI TECHNOLOGY\06.07.2025\html.themewant.com\ekomart\assets\images\category\01.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themewant.com/ekomart/assets/images/category/01.png
+File Name: C:\VERSAI TECHNOLOGY\06.07.2025\html.themewant.com\ekomart\assets\images\category\01.png
+Content Type: image/png
+
+Uri: https://html.themewant.com/ekomart/assets/images/category/02.jpg
+File Name: C:\VERSAI TECHNOLOGY\06.07.2025\html.themewant.com\ekomart\assets\images\category\02.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themewant.com/ekomart/assets/images/category/02.png
+File Name: C:\VERSAI TECHNOLOGY\06.07.2025\html.themewant.com\ekomart\assets\images\category\02.png
+Content Type: image/png
+
+Uri: https://html.themewant.com/ekomart/assets/images/category/03.jpg
+File Name: C:\VERSAI TECHNOLOGY\06.07.2025\html.themewant.com\ekomart\assets\images\category\03.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themewant.com/ekomart/assets/images/category/03.png
+File Name: C:\VERSAI TECHNOLOGY\06.07.2025\html.themewant.com\ekomart\assets\images\category\03.png
+Content Type: image/png
+
+Uri: https://html.themewant.com/ekomart/assets/images/category/04.jpg
+File Name: C:\VERSAI TECHNOLOGY\06.07.2025\html.themewant.com\ekomart\assets\images\category\04.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themewant.com/ekomart/assets/images/category/04.png
+File Name: C:\VERSAI TECHNOLOGY\06.07.2025\html.themewant.com\ekomart\assets\images\category\04.png
+Content Type: image/png
+
+Uri: https://html.themewant.com/ekomart/assets/images/category/05.jpg
+File Name: C:\VERSAI TECHNOLOGY\06.07.2025\html.themewant.com\ekomart\assets\images\category\05.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themewant.com/ekomart/assets/images/category/05.png
+File Name: C:\VERSAI TECHNOLOGY\06.07.2025\html.themewant.com\ekomart\assets\images\category\05.png
+Content Type: image/png
+
+Uri: https://html.themewant.com/ekomart/assets/images/category/06.jpg
+File Name: C:\VERSAI TECHNOLOGY\06.07.2025\html.themewant.com\ekomart\assets\images\category\06.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themewant.com/ekomart/assets/images/category/06.png
+File Name: C:\VERSAI TECHNOLOGY\06.07.2025\html.themewant.com\ekomart\assets\images\category\06.png
+Content Type: image/png
+
+Uri: https://html.themewant.com/ekomart/assets/images/category/07.jpg
+File Name: C:\VERSAI TECHNOLOGY\06.07.2025\html.themewant.com\ekomart\assets\images\category\07.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themewant.com/ekomart/assets/images/category/07.png
+File Name: C:\VERSAI TECHNOLOGY\06.07.2025\html.themewant.com\ekomart\assets\images\category\07.png
+Content Type: image/png
+
+Uri: https://html.themewant.com/ekomart/assets/images/category/08.png
+File Name: C:\VERSAI TECHNOLOGY\06.07.2025\html.themewant.com\ekomart\assets\images\category\08.png
+Content Type: image/png
+
+Uri: https://html.themewant.com/ekomart/assets/images/category/09.png
+File Name: C:\VERSAI TECHNOLOGY\06.07.2025\html.themewant.com\ekomart\assets\images\category\09.png
+Content Type: image/png
+
+Uri: https://html.themewant.com/ekomart/assets/images/category/10.png
+File Name: C:\VERSAI TECHNOLOGY\06.07.2025\html.themewant.com\ekomart\assets\images\category\10.png
+Content Type: image/png
+
+Uri: https://html.themewant.com/ekomart/assets/images/contact/01.jpg
+File Name: C:\VERSAI TECHNOLOGY\06.07.2025\html.themewant.com\ekomart\assets\images\contact\01.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themewant.com/ekomart/assets/images/contact/01.png
+File Name: C:\VERSAI TECHNOLOGY\06.07.2025\html.themewant.com\ekomart\assets\images\contact\01.png
+Content Type: image/png
+
+Uri: https://html.themewant.com/ekomart/assets/images/contact/02.jpg
+File Name: C:\VERSAI TECHNOLOGY\06.07.2025\html.themewant.com\ekomart\assets\images\contact\02.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themewant.com/ekomart/assets/images/discount-product/01.jpg
+File Name: C:\VERSAI TECHNOLOGY\06.07.2025\html.themewant.com\ekomart\assets\images\discount-product\01.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themewant.com/ekomart/assets/images/discount-product/02.jpg
+File Name: C:\VERSAI TECHNOLOGY\06.07.2025\html.themewant.com\ekomart\assets\images\discount-product\02.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themewant.com/ekomart/assets/images/fav.png
+File Name: C:\VERSAI TECHNOLOGY\06.07.2025\html.themewant.com\ekomart\assets\images\fav.png
+Content Type: image/png
+
+Uri: https://html.themewant.com/ekomart/assets/images/feature/01.jpg
+File Name: C:\VERSAI TECHNOLOGY\06.07.2025\html.themewant.com\ekomart\assets\images\feature\01.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themewant.com/ekomart/assets/images/feature/01.png
+File Name: C:\VERSAI TECHNOLOGY\06.07.2025\html.themewant.com\ekomart\assets\images\feature\01.png
+Content Type: image/png
+
+Uri: https://html.themewant.com/ekomart/assets/images/feature/02.jpg
+File Name: C:\VERSAI TECHNOLOGY\06.07.2025\html.themewant.com\ekomart\assets\images\feature\02.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themewant.com/ekomart/assets/images/feature/02.png
+File Name: C:\VERSAI TECHNOLOGY\06.07.2025\html.themewant.com\ekomart\assets\images\feature\02.png
+Content Type: image/png
+
+Uri: https://html.themewant.com/ekomart/assets/images/feature/03.jpg
+File Name: C:\VERSAI TECHNOLOGY\06.07.2025\html.themewant.com\ekomart\assets\images\feature\03.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themewant.com/ekomart/assets/images/feature/04.jpg
+File Name: C:\VERSAI TECHNOLOGY\06.07.2025\html.themewant.com\ekomart\assets\images\feature\04.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themewant.com/ekomart/assets/images/feature/05.jpg
+File Name: C:\VERSAI TECHNOLOGY\06.07.2025\html.themewant.com\ekomart\assets\images\feature\05.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themewant.com/ekomart/assets/images/form/facebook.svg
+File Name: C:\VERSAI TECHNOLOGY\06.07.2025\html.themewant.com\ekomart\assets\images\form\facebook.svg
+Content Type: image/svg+xml
+
+Uri: https://html.themewant.com/ekomart/assets/images/form/google.svg
+File Name: C:\VERSAI TECHNOLOGY\06.07.2025\html.themewant.com\ekomart\assets\images\form\google.svg
+Content Type: image/svg+xml
+
+Uri: https://html.themewant.com/ekomart/assets/images/grocery/01.jpg
+File Name: C:\VERSAI TECHNOLOGY\06.07.2025\html.themewant.com\ekomart\assets\images\grocery\01.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themewant.com/ekomart/assets/images/grocery/02.jpg
+File Name: C:\VERSAI TECHNOLOGY\06.07.2025\html.themewant.com\ekomart\assets\images\grocery\02.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themewant.com/ekomart/assets/images/grocery/03.jpg
+File Name: C:\VERSAI TECHNOLOGY\06.07.2025\html.themewant.com\ekomart\assets\images\grocery\03.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themewant.com/ekomart/assets/images/grocery/04.jpg
+File Name: C:\VERSAI TECHNOLOGY\06.07.2025\html.themewant.com\ekomart\assets\images\grocery\04.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themewant.com/ekomart/assets/images/grocery/05.jpg
+File Name: C:\VERSAI TECHNOLOGY\06.07.2025\html.themewant.com\ekomart\assets\images\grocery\05.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themewant.com/ekomart/assets/images/grocery/06.jpg
+File Name: C:\VERSAI TECHNOLOGY\06.07.2025\html.themewant.com\ekomart\assets\images\grocery\06.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themewant.com/ekomart/assets/images/grocery/07.jpg
+File Name: C:\VERSAI TECHNOLOGY\06.07.2025\html.themewant.com\ekomart\assets\images\grocery\07.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themewant.com/ekomart/assets/images/grocery/08.jpg
+File Name: C:\VERSAI TECHNOLOGY\06.07.2025\html.themewant.com\ekomart\assets\images\grocery\08.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themewant.com/ekomart/assets/images/grocery/09.jpg
+File Name: C:\VERSAI TECHNOLOGY\06.07.2025\html.themewant.com\ekomart\assets\images\grocery\09.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themewant.com/ekomart/assets/images/grocery/10.jpg
+File Name: C:\VERSAI TECHNOLOGY\06.07.2025\html.themewant.com\ekomart\assets\images\grocery\10.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themewant.com/ekomart/assets/images/grocery/11.jpg
+File Name: C:\VERSAI TECHNOLOGY\06.07.2025\html.themewant.com\ekomart\assets\images\grocery\11.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themewant.com/ekomart/assets/images/grocery/12.jpg
+File Name: C:\VERSAI TECHNOLOGY\06.07.2025\html.themewant.com\ekomart\assets\images\grocery\12.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themewant.com/ekomart/assets/images/grocery/13.jpg
+File Name: C:\VERSAI TECHNOLOGY\06.07.2025\html.themewant.com\ekomart\assets\images\grocery\13.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themewant.com/ekomart/assets/images/grocery/14.jpg
+File Name: C:\VERSAI TECHNOLOGY\06.07.2025\html.themewant.com\ekomart\assets\images\grocery\14.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themewant.com/ekomart/assets/images/grocery/15.jpg
+File Name: C:\VERSAI TECHNOLOGY\06.07.2025\html.themewant.com\ekomart\assets\images\grocery\15.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themewant.com/ekomart/assets/images/grocery/16.jpg
+File Name: C:\VERSAI TECHNOLOGY\06.07.2025\html.themewant.com\ekomart\assets\images\grocery\16.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themewant.com/ekomart/assets/images/grocery/17.jpg
+File Name: C:\VERSAI TECHNOLOGY\06.07.2025\html.themewant.com\ekomart\assets\images\grocery\17.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themewant.com/ekomart/assets/images/grocery/18.jpg
+File Name: C:\VERSAI TECHNOLOGY\06.07.2025\html.themewant.com\ekomart\assets\images\grocery\18.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themewant.com/ekomart/assets/images/grocery/19.jpg
+File Name: C:\VERSAI TECHNOLOGY\06.07.2025\html.themewant.com\ekomart\assets\images\grocery\19.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themewant.com/ekomart/assets/images/grocery/20.jpg
+File Name: C:\VERSAI TECHNOLOGY\06.07.2025\html.themewant.com\ekomart\assets\images\grocery\20.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themewant.com/ekomart/assets/images/grocery/21.jpg
+File Name: C:\VERSAI TECHNOLOGY\06.07.2025\html.themewant.com\ekomart\assets\images\grocery\21.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themewant.com/ekomart/assets/images/grocery/22.jpg
+File Name: C:\VERSAI TECHNOLOGY\06.07.2025\html.themewant.com\ekomart\assets\images\grocery\22.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themewant.com/ekomart/assets/images/grocery/23.jpg
+File Name: C:\VERSAI TECHNOLOGY\06.07.2025\html.themewant.com\ekomart\assets\images\grocery\23.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themewant.com/ekomart/assets/images/grocery/24.jpg
+File Name: C:\VERSAI TECHNOLOGY\06.07.2025\html.themewant.com\ekomart\assets\images\grocery\24.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themewant.com/ekomart/assets/images/grocery/25.jpg
+File Name: C:\VERSAI TECHNOLOGY\06.07.2025\html.themewant.com\ekomart\assets\images\grocery\25.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themewant.com/ekomart/assets/images/grocery/26.jpg
+File Name: C:\VERSAI TECHNOLOGY\06.07.2025\html.themewant.com\ekomart\assets\images\grocery\26.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themewant.com/ekomart/assets/images/grocery/27.jpg
+File Name: C:\VERSAI TECHNOLOGY\06.07.2025\html.themewant.com\ekomart\assets\images\grocery\27.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themewant.com/ekomart/assets/images/grocery/28.jpg
+File Name: C:\VERSAI TECHNOLOGY\06.07.2025\html.themewant.com\ekomart\assets\images\grocery\28.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themewant.com/ekomart/assets/images/icons/01.svg
+File Name: C:\VERSAI TECHNOLOGY\06.07.2025\html.themewant.com\ekomart\assets\images\icons\01.svg
+Content Type: image/svg+xml
+
+Uri: https://html.themewant.com/ekomart/assets/images/icons/02.svg
+File Name: C:\VERSAI TECHNOLOGY\06.07.2025\html.themewant.com\ekomart\assets\images\icons\02.svg
+Content Type: image/svg+xml
+
+Uri: https://html.themewant.com/ekomart/assets/images/icons/03.svg
+File Name: C:\VERSAI TECHNOLOGY\06.07.2025\html.themewant.com\ekomart\assets\images\icons\03.svg
+Content Type: image/svg+xml
+
+Uri: https://html.themewant.com/ekomart/assets/images/icons/04.svg
+File Name: C:\VERSAI TECHNOLOGY\06.07.2025\html.themewant.com\ekomart\assets\images\icons\04.svg
+Content Type: image/svg+xml
+
+Uri: https://html.themewant.com/ekomart/assets/images/icons/05.svg
+File Name: C:\VERSAI TECHNOLOGY\06.07.2025\html.themewant.com\ekomart\assets\images\icons\05.svg
+Content Type: image/svg+xml
+
+Uri: https://html.themewant.com/ekomart/assets/images/icons/06.svg
+File Name: C:\VERSAI TECHNOLOGY\06.07.2025\html.themewant.com\ekomart\assets\images\icons\06.svg
+Content Type: image/svg+xml
+
+Uri: https://html.themewant.com/ekomart/assets/images/icons/07.svg
+File Name: C:\VERSAI TECHNOLOGY\06.07.2025\html.themewant.com\ekomart\assets\images\icons\07.svg
+Content Type: image/svg+xml
+
+Uri: https://html.themewant.com/ekomart/assets/images/icons/08.svg
+File Name: C:\VERSAI TECHNOLOGY\06.07.2025\html.themewant.com\ekomart\assets\images\icons\08.svg
+Content Type: image/svg+xml
+
+Uri: https://html.themewant.com/ekomart/assets/images/icons/09.svg
+File Name: C:\VERSAI TECHNOLOGY\06.07.2025\html.themewant.com\ekomart\assets\images\icons\09.svg
+Content Type: image/svg+xml
+
+Uri: https://html.themewant.com/ekomart/assets/images/icons/10.svg
+File Name: C:\VERSAI TECHNOLOGY\06.07.2025\html.themewant.com\ekomart\assets\images\icons\10.svg
+Content Type: image/svg+xml
+
+Uri: https://html.themewant.com/ekomart/assets/images/icons/11.svg
+File Name: C:\VERSAI TECHNOLOGY\06.07.2025\html.themewant.com\ekomart\assets\images\icons\11.svg
+Content Type: image/svg+xml
+
+Uri: https://html.themewant.com/ekomart/assets/images/icons/12.svg
+File Name: C:\VERSAI TECHNOLOGY\06.07.2025\html.themewant.com\ekomart\assets\images\icons\12.svg
+Content Type: image/svg+xml
+
+Uri: https://html.themewant.com/ekomart/assets/images/icons/13.svg
+File Name: C:\VERSAI TECHNOLOGY\06.07.2025\html.themewant.com\ekomart\assets\images\icons\13.svg
+Content Type: image/svg+xml
+
+Uri: https://html.themewant.com/ekomart/assets/images/icons/14.svg
+File Name: C:\VERSAI TECHNOLOGY\06.07.2025\html.themewant.com\ekomart\assets\images\icons\14.svg
+Content Type: image/svg+xml
+
+Uri: https://html.themewant.com/ekomart/assets/images/icons/bar-1.svg
+File Name: C:\VERSAI TECHNOLOGY\06.07.2025\html.themewant.com\ekomart\assets\images\icons\bar-1.svg
+Content Type: image/svg+xml
+
+Uri: https://html.themewant.com/ekomart/assets/images/invoice/01.jpg
+File Name: C:\VERSAI TECHNOLOGY\06.07.2025\html.themewant.com\ekomart\assets\images\invoice\01.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themewant.com/ekomart/assets/images/invoice/invoice.pdf
+File Name: C:\VERSAI TECHNOLOGY\06.07.2025\html.themewant.com\ekomart\assets\images\invoice\invoice.pdf
+Content Type: application/pdf
+
+Uri: https://html.themewant.com/ekomart/assets/images/logo/fav.png
+File Name: C:\VERSAI TECHNOLOGY\06.07.2025\html.themewant.com\ekomart\assets\images\logo\fav.png
+Content Type: image/png
+
+Uri: https://html.themewant.com/ekomart/assets/images/logo/logo-01.svg
+File Name: C:\VERSAI TECHNOLOGY\06.07.2025\html.themewant.com\ekomart\assets\images\logo\logo-01.svg
+Content Type: image/svg+xml
+
+Uri: https://html.themewant.com/ekomart/assets/images/logo/logo-02.svg
+File Name: C:\VERSAI TECHNOLOGY\06.07.2025\html.themewant.com\ekomart\assets\images\logo\logo-02.svg
+Content Type: image/svg+xml
+
+Uri: https://html.themewant.com/ekomart/assets/images/offer/01.png
+File Name: C:\VERSAI TECHNOLOGY\06.07.2025\html.themewant.com\ekomart\assets\images\offer\01.png
+Content Type: image/png
+
+Uri: https://html.themewant.com/ekomart/assets/images/payment/01.png
+File Name: C:\VERSAI TECHNOLOGY\06.07.2025\html.themewant.com\ekomart\assets\images\payment\01.png
+Content Type: image/png
+
+Uri: https://html.themewant.com/ekomart/assets/images/payment/02.png
+File Name: C:\VERSAI TECHNOLOGY\06.07.2025\html.themewant.com\ekomart\assets\images\payment\02.png
+Content Type: image/png
+
+Uri: https://html.themewant.com/ekomart/assets/images/payment/03.png
+File Name: C:\VERSAI TECHNOLOGY\06.07.2025\html.themewant.com\ekomart\assets\images\payment\03.png
+Content Type: image/png
+
+Uri: https://html.themewant.com/ekomart/assets/images/payment/04.png
+File Name: C:\VERSAI TECHNOLOGY\06.07.2025\html.themewant.com\ekomart\assets\images\payment\04.png
+Content Type: image/png
+
+Uri: https://html.themewant.com/ekomart/assets/images/payment/06.png
+File Name: C:\VERSAI TECHNOLOGY\06.07.2025\html.themewant.com\ekomart\assets\images\payment\06.png
+Content Type: image/png
+
+Uri: https://html.themewant.com/ekomart/assets/images/popover/01.webp
+File Name: C:\VERSAI TECHNOLOGY\06.07.2025\html.themewant.com\ekomart\assets\images\popover\01.webp
+Content Type: image/webp
+
+Uri: https://html.themewant.com/ekomart/assets/images/products/product-details.jpg
+File Name: C:\VERSAI TECHNOLOGY\06.07.2025\html.themewant.com\ekomart\assets\images\products\product-details.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themewant.com/ekomart/assets/images/products/product-filt1.jpg
+File Name: C:\VERSAI TECHNOLOGY\06.07.2025\html.themewant.com\ekomart\assets\images\products\product-filt1.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themewant.com/ekomart/assets/images/products/product-filt2.jpg
+File Name: C:\VERSAI TECHNOLOGY\06.07.2025\html.themewant.com\ekomart\assets\images\products\product-filt2.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themewant.com/ekomart/assets/images/products/product-filt3.jpg
+File Name: C:\VERSAI TECHNOLOGY\06.07.2025\html.themewant.com\ekomart\assets\images\products\product-filt3.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themewant.com/ekomart/assets/images/service/01.svg
+File Name: C:\VERSAI TECHNOLOGY\06.07.2025\html.themewant.com\ekomart\assets\images\service\01.svg
+Content Type: image/svg+xml
+
+Uri: https://html.themewant.com/ekomart/assets/images/service/02.svg
+File Name: C:\VERSAI TECHNOLOGY\06.07.2025\html.themewant.com\ekomart\assets\images\service\02.svg
+Content Type: image/svg+xml
+
+Uri: https://html.themewant.com/ekomart/assets/images/service/03.svg
+File Name: C:\VERSAI TECHNOLOGY\06.07.2025\html.themewant.com\ekomart\assets\images\service\03.svg
+Content Type: image/svg+xml
+
+Uri: https://html.themewant.com/ekomart/assets/images/shop/01.jpg
+File Name: C:\VERSAI TECHNOLOGY\06.07.2025\html.themewant.com\ekomart\assets\images\shop\01.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themewant.com/ekomart/assets/images/shop/01.png
+File Name: C:\VERSAI TECHNOLOGY\06.07.2025\html.themewant.com\ekomart\assets\images\shop\01.png
+Content Type: image/png
+
+Uri: https://html.themewant.com/ekomart/assets/images/shop/01.svg
+File Name: C:\VERSAI TECHNOLOGY\06.07.2025\html.themewant.com\ekomart\assets\images\shop\01.svg
+Content Type: image/svg+xml
+
+Uri: https://html.themewant.com/ekomart/assets/images/shop/02.jpg
+File Name: C:\VERSAI TECHNOLOGY\06.07.2025\html.themewant.com\ekomart\assets\images\shop\02.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themewant.com/ekomart/assets/images/shop/02.png
+File Name: C:\VERSAI TECHNOLOGY\06.07.2025\html.themewant.com\ekomart\assets\images\shop\02.png
+Content Type: image/png
+
+Uri: https://html.themewant.com/ekomart/assets/images/shop/02.svg
+File Name: C:\VERSAI TECHNOLOGY\06.07.2025\html.themewant.com\ekomart\assets\images\shop\02.svg
+Content Type: image/svg+xml
+
+Uri: https://html.themewant.com/ekomart/assets/images/shop/03.jpg
+File Name: C:\VERSAI TECHNOLOGY\06.07.2025\html.themewant.com\ekomart\assets\images\shop\03.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themewant.com/ekomart/assets/images/shop/03.png
+File Name: C:\VERSAI TECHNOLOGY\06.07.2025\html.themewant.com\ekomart\assets\images\shop\03.png
+Content Type: image/png
+
+Uri: https://html.themewant.com/ekomart/assets/images/shop/03.svg
+File Name: C:\VERSAI TECHNOLOGY\06.07.2025\html.themewant.com\ekomart\assets\images\shop\03.svg
+Content Type: image/svg+xml
+
+Uri: https://html.themewant.com/ekomart/assets/images/shop/04.jpg
+File Name: C:\VERSAI TECHNOLOGY\06.07.2025\html.themewant.com\ekomart\assets\images\shop\04.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themewant.com/ekomart/assets/images/shop/04.png
+File Name: C:\VERSAI TECHNOLOGY\06.07.2025\html.themewant.com\ekomart\assets\images\shop\04.png
+Content Type: image/png
+
+Uri: https://html.themewant.com/ekomart/assets/images/shop/05.jpg
+File Name: C:\VERSAI TECHNOLOGY\06.07.2025\html.themewant.com\ekomart\assets\images\shop\05.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themewant.com/ekomart/assets/images/shop/05.png
+File Name: C:\VERSAI TECHNOLOGY\06.07.2025\html.themewant.com\ekomart\assets\images\shop\05.png
+Content Type: image/png
+
+Uri: https://html.themewant.com/ekomart/assets/images/shop/06.jpg
+File Name: C:\VERSAI TECHNOLOGY\06.07.2025\html.themewant.com\ekomart\assets\images\shop\06.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themewant.com/ekomart/assets/images/shop/06.png
+File Name: C:\VERSAI TECHNOLOGY\06.07.2025\html.themewant.com\ekomart\assets\images\shop\06.png
+Content Type: image/png
+
+Uri: https://html.themewant.com/ekomart/assets/images/shop/cart-1.png
+File Name: C:\VERSAI TECHNOLOGY\06.07.2025\html.themewant.com\ekomart\assets\images\shop\cart-1.png
+Content Type: image/png
+
+Uri: https://html.themewant.com/ekomart/assets/images/store/01.jpg
+File Name: C:\VERSAI TECHNOLOGY\06.07.2025\html.themewant.com\ekomart\assets\images\store\01.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themewant.com/ekomart/assets/images/store/02.jpg
+File Name: C:\VERSAI TECHNOLOGY\06.07.2025\html.themewant.com\ekomart\assets\images\store\02.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themewant.com/ekomart/assets/images/store/03.jpg
+File Name: C:\VERSAI TECHNOLOGY\06.07.2025\html.themewant.com\ekomart\assets\images\store\03.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themewant.com/ekomart/assets/images/team/01.jpg
+File Name: C:\VERSAI TECHNOLOGY\06.07.2025\html.themewant.com\ekomart\assets\images\team\01.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themewant.com/ekomart/assets/images/team/02.jpg
+File Name: C:\VERSAI TECHNOLOGY\06.07.2025\html.themewant.com\ekomart\assets\images\team\02.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themewant.com/ekomart/assets/images/team/03.jpg
+File Name: C:\VERSAI TECHNOLOGY\06.07.2025\html.themewant.com\ekomart\assets\images\team\03.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themewant.com/ekomart/assets/images/team/04.jpg
+File Name: C:\VERSAI TECHNOLOGY\06.07.2025\html.themewant.com\ekomart\assets\images\team\04.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themewant.com/ekomart/assets/images/testimonial/01.png
+File Name: C:\VERSAI TECHNOLOGY\06.07.2025\html.themewant.com\ekomart\assets\images\testimonial\01.png
+Content Type: image/png
+
+Uri: https://html.themewant.com/ekomart/assets/images/testimonial/02.png
+File Name: C:\VERSAI TECHNOLOGY\06.07.2025\html.themewant.com\ekomart\assets\images\testimonial\02.png
+Content Type: image/png
+
+Uri: https://html.themewant.com/ekomart/assets/images/vendor/01.jpg
+File Name: C:\VERSAI TECHNOLOGY\06.07.2025\html.themewant.com\ekomart\assets\images\vendor\01.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themewant.com/ekomart/assets/images/vendor/01.png
+File Name: C:\VERSAI TECHNOLOGY\06.07.2025\html.themewant.com\ekomart\assets\images\vendor\01.png
+Content Type: image/png
+
+Uri: https://html.themewant.com/ekomart/assets/images/vendor/01.svg
+File Name: C:\VERSAI TECHNOLOGY\06.07.2025\html.themewant.com\ekomart\assets\images\vendor\01.svg
+Content Type: image/svg+xml
+
+Uri: https://html.themewant.com/ekomart/assets/images/vendor/02.jpg
+File Name: C:\VERSAI TECHNOLOGY\06.07.2025\html.themewant.com\ekomart\assets\images\vendor\02.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themewant.com/ekomart/assets/images/vendor/02.png
+File Name: C:\VERSAI TECHNOLOGY\06.07.2025\html.themewant.com\ekomart\assets\images\vendor\02.png
+Content Type: image/png
+
+Uri: https://html.themewant.com/ekomart/assets/images/vendor/02.svg
+File Name: C:\VERSAI TECHNOLOGY\06.07.2025\html.themewant.com\ekomart\assets\images\vendor\02.svg
+Content Type: image/svg+xml
+
+Uri: https://html.themewant.com/ekomart/assets/images/vendor/03.svg
+File Name: C:\VERSAI TECHNOLOGY\06.07.2025\html.themewant.com\ekomart\assets\images\vendor\03.svg
+Content Type: image/svg+xml
+
+Uri: https://html.themewant.com/ekomart/assets/images/vendor/04.svg
+File Name: C:\VERSAI TECHNOLOGY\06.07.2025\html.themewant.com\ekomart\assets\images\vendor\04.svg
+Content Type: image/svg+xml
+
+Uri: https://html.themewant.com/ekomart/assets/images/vendor/05.svg
+File Name: C:\VERSAI TECHNOLOGY\06.07.2025\html.themewant.com\ekomart\assets\images\vendor\05.svg
+Content Type: image/svg+xml
+
+Uri: https://html.themewant.com/ekomart/assets/images/vendor/06.svg
+File Name: C:\VERSAI TECHNOLOGY\06.07.2025\html.themewant.com\ekomart\assets\images\vendor\06.svg
+Content Type: image/svg+xml
+
+Uri: https://html.themewant.com/ekomart/assets/images/vendor/07.svg
+File Name: C:\VERSAI TECHNOLOGY\06.07.2025\html.themewant.com\ekomart\assets\images\vendor\07.svg
+Content Type: image/svg+xml
+
+Uri: https://html.themewant.com/ekomart/assets/images/vendor/08.svg
+File Name: C:\VERSAI TECHNOLOGY\06.07.2025\html.themewant.com\ekomart\assets\images\vendor\08.svg
+Content Type: image/svg+xml
+
+Uri: https://html.themewant.com/ekomart/assets/images/vendor/09.svg
+File Name: C:\VERSAI TECHNOLOGY\06.07.2025\html.themewant.com\ekomart\assets\images\vendor\09.svg
+Content Type: image/svg+xml
+
+Uri: https://html.themewant.com/ekomart/assets/js/main.js
+File Name: C:\VERSAI TECHNOLOGY\06.07.2025\html.themewant.com\ekomart\assets\js\main.js
+Content Type: application/x-javascript
+
+Uri: https://html.themewant.com/ekomart/assets/js/plugins.js
+File Name: C:\VERSAI TECHNOLOGY\06.07.2025\html.themewant.com\ekomart\assets\js\plugins.js
+Content Type: application/x-javascript
+
+Uri: https://html.themewant.com/ekomart/blog-details.html
+File Name: C:\VERSAI TECHNOLOGY\06.07.2025\html.themewant.com\ekomart\blog-details.html
+Content Type: text/html
+
+Uri: https://html.themewant.com/ekomart/blog-list-left-sidebar.html
+File Name: C:\VERSAI TECHNOLOGY\06.07.2025\html.themewant.com\ekomart\blog-list-left-sidebar.html
+Content Type: text/html
+
+Uri: https://html.themewant.com/ekomart/blog-list-right-sidebar.html
+File Name: C:\VERSAI TECHNOLOGY\06.07.2025\html.themewant.com\ekomart\blog-list-right-sidebar.html
+Content Type: text/html
+
+Uri: https://html.themewant.com/ekomart/blog.html
+File Name: C:\VERSAI TECHNOLOGY\06.07.2025\html.themewant.com\ekomart\blog.html
+Content Type: text/html
+
+Uri: https://html.themewant.com/ekomart/cart.html
+File Name: C:\VERSAI TECHNOLOGY\06.07.2025\html.themewant.com\ekomart\cart.html
+Content Type: text/html
+
+Uri: https://html.themewant.com/ekomart/checkout.html
+File Name: C:\VERSAI TECHNOLOGY\06.07.2025\html.themewant.com\ekomart\checkout.html
+Content Type: text/html
+
+Uri: https://html.themewant.com/ekomart/contact.html
+File Name: C:\VERSAI TECHNOLOGY\06.07.2025\html.themewant.com\ekomart\contact.html
+Content Type: text/html
+
+Uri: https://html.themewant.com/ekomart/cookies-policy.html
+File Name: C:\VERSAI TECHNOLOGY\06.07.2025\html.themewant.com\ekomart\cookies-policy.html
+Content Type: text/html
+
+Uri: https://html.themewant.com/ekomart/faq.html
+File Name: C:\VERSAI TECHNOLOGY\06.07.2025\html.themewant.com\ekomart\faq.html
+Content Type: text/html
+
+Uri: https://html.themewant.com/ekomart/index-five.html
+File Name: C:\VERSAI TECHNOLOGY\06.07.2025\html.themewant.com\ekomart\index-five.html
+Content Type: text/html
+
+Uri: https://html.themewant.com/ekomart/index-four.html
+File Name: C:\VERSAI TECHNOLOGY\06.07.2025\html.themewant.com\ekomart\index-four.html
+Content Type: text/html
+
+Uri: https://html.themewant.com/ekomart/index-three.html
+File Name: C:\VERSAI TECHNOLOGY\06.07.2025\html.themewant.com\ekomart\ekomart/index-three.html
+Content Type: text/html
+
+Uri: https://html.themewant.com/ekomart/index-two.html
+File Name: C:\VERSAI TECHNOLOGY\06.07.2025\html.themewant.com\ekomart\index-two.html
+Content Type: text/html
+
+Uri: https://html.themewant.com/ekomart/index.html
+File Name: C:\VERSAI TECHNOLOGY\06.07.2025\html.themewant.com\ekomart\index.html
+Content Type: text/html
+
+Uri: https://html.themewant.com/ekomart/invoice.html
+File Name: C:\VERSAI TECHNOLOGY\06.07.2025\html.themewant.com\ekomart\invoice.html
+Content Type: text/html
+
+Uri: https://html.themewant.com/ekomart/login.html
+File Name: C:\VERSAI TECHNOLOGY\06.07.2025\html.themewant.com\ekomart\login.html
+Content Type: text/html
+
+Uri: https://html.themewant.com/ekomart/privacy-policy.html
+File Name: C:\VERSAI TECHNOLOGY\06.07.2025\html.themewant.com\ekomart\privacy-policy.html
+Content Type: text/html
+
+Uri: https://html.themewant.com/ekomart/register.html
+File Name: C:\VERSAI TECHNOLOGY\06.07.2025\html.themewant.com\ekomart\register.html
+Content Type: text/html
+
+Uri: https://html.themewant.com/ekomart/shop-compare.html
+File Name: C:\VERSAI TECHNOLOGY\06.07.2025\html.themewant.com\ekomart\shop-compare.html
+Content Type: text/html
+
+Uri: https://html.themewant.com/ekomart/shop-details-2.html
+File Name: C:\VERSAI TECHNOLOGY\06.07.2025\html.themewant.com\ekomart\shop-details-2.html
+Content Type: text/html
+
+Uri: https://html.themewant.com/ekomart/shop-details-4.html
+File Name: C:\VERSAI TECHNOLOGY\06.07.2025\html.themewant.com\ekomart\shop-details-4.html
+Content Type: text/html
+
+Uri: https://html.themewant.com/ekomart/shop-details-affiliats.html
+File Name: C:\VERSAI TECHNOLOGY\06.07.2025\html.themewant.com\ekomart\shop-details-affiliats.html
+Content Type: text/html
+
+Uri: https://html.themewant.com/ekomart/shop-details-group.html
+File Name: C:\VERSAI TECHNOLOGY\06.07.2025\html.themewant.com\ekomart\shop-details-group.html
+Content Type: text/html
+
+Uri: https://html.themewant.com/ekomart/shop-details-right-sidebar.html
+File Name: C:\VERSAI TECHNOLOGY\06.07.2025\html.themewant.com\ekomart\shop-details-right-sidebar.html
+Content Type: text/html
+
+Uri: https://html.themewant.com/ekomart/shop-details-variable.html
+File Name: C:\VERSAI TECHNOLOGY\06.07.2025\html.themewant.com\ekomart\shop-details-variable.html
+Content Type: text/html
+
+Uri: https://html.themewant.com/ekomart/shop-details.html
+File Name: C:\VERSAI TECHNOLOGY\06.07.2025\html.themewant.com\ekomart\shop-details.html
+Content Type: text/html
+
+Uri: https://html.themewant.com/ekomart/shop-grid-sidebar.html
+File Name: C:\VERSAI TECHNOLOGY\06.07.2025\html.themewant.com\ekomart\shop-grid-sidebar.html
+Content Type: text/html
+
+Uri: https://html.themewant.com/ekomart/shop-grid-top-filter.html
+File Name: C:\VERSAI TECHNOLOGY\06.07.2025\html.themewant.com\ekomart\shop-grid-top-filter.html
+Content Type: text/html
+
+Uri: https://html.themewant.com/ekomart/shop-list-sidebar.html
+File Name: C:\VERSAI TECHNOLOGY\06.07.2025\html.themewant.com\ekomart\shop-list-sidebar.html
+Content Type: text/html
+
+Uri: https://html.themewant.com/ekomart/shop-list-top-filter.html
+File Name: C:\VERSAI TECHNOLOGY\06.07.2025\html.themewant.com\ekomart\shop-list-top-filter.html
+Content Type: text/html
+
+Uri: https://html.themewant.com/ekomart/store.html
+File Name: C:\VERSAI TECHNOLOGY\06.07.2025\html.themewant.com\ekomart\store.html
+Content Type: text/html
+
+Uri: https://html.themewant.com/ekomart/terms-condition.html
+File Name: C:\VERSAI TECHNOLOGY\06.07.2025\html.themewant.com\ekomart\terms-condition.html
+Content Type: text/html
+
+Uri: https://html.themewant.com/ekomart/trackorder.html
+File Name: C:\VERSAI TECHNOLOGY\06.07.2025\html.themewant.com\ekomart\trackorder.html
+Content Type: text/html
+
+Uri: https://html.themewant.com/ekomart/vendor-details.html
+File Name: C:\VERSAI TECHNOLOGY\06.07.2025\html.themewant.com\ekomart\vendor-details.html
+Content Type: text/html
+
+Uri: https://html.themewant.com/ekomart/vendor-grid.html
+File Name: C:\VERSAI TECHNOLOGY\06.07.2025\html.themewant.com\ekomart\vendor-grid.html
+Content Type: text/html
+
+Uri: https://html.themewant.com/ekomart/vendor-list.html
+File Name: C:\VERSAI TECHNOLOGY\06.07.2025\html.themewant.com\ekomart\vendor-list.html
+Content Type: text/html
+
+Uri: https://html.themewant.com/ekomart/wishlist.html
+File Name: C:\VERSAI TECHNOLOGY\06.07.2025\html.themewant.com\ekomart\wishlist.html
+Content Type: text/html
+

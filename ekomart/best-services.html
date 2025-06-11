@@ -1,0 +1,993 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="keywords" content="Grocery, Store, stores">
+    <title>Best Services | VIKJAN GROOT AGRICULTURAL PRODUCTS</title>
+    <link rel="shortcut icon" type="image/x-icon" href="assets/images/fav.png">
+    <!-- plugins css -->
+    <link rel="stylesheet preload" href="assets/css/plugins.css" as="style">
+    <link rel="stylesheet preload" href="assets/css/style.css" as="style">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+    <style>
+        :root {
+            --primary-color: #2E7D32;
+            --secondary-color: #4CAF50;
+            --text-color: #333;
+            --light-bg: #f9f9f9;
+            --white: #ffffff;
+            --box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+        }
+
+        .services-container {
+            max-width: 1200px;
+            margin: 40px auto;
+            padding: 0 15px;
+        }
+
+        .services-hero {
+            background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url('assets/images/services-hero-bg.jpg');
+            background-size: cover;
+            background-position: center;
+            color: white;
+            padding: 100px 20px;
+            text-align: center;
+            border-radius: 10px;
+            margin-bottom: 50px;
+        }
+
+        .services-hero h1 {
+            font-size: 3rem;
+            margin-bottom: 20px;
+            color: var(--white);
+        }
+
+        .services-hero p {
+            font-size: 1.2rem;
+            max-width: 700px;
+            margin: 0 auto;
+        }
+
+        .section-title {
+            text-align: center;
+            color: var(--primary-color);
+            margin-bottom: 50px;
+            font-size: 2.2rem;
+        }
+
+        .services-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
+            gap: 30px;
+            margin-bottom: 60px;
+        }
+
+        .service-card {
+            background: var(--white);
+            border-radius: 10px;
+            overflow: hidden;
+            box-shadow: var(--box-shadow);
+            transition: transform 0.3s ease;
+        }
+
+        .service-card:hover {
+            transform: translateY(-10px);
+        }
+
+        .service-img {
+            height: 200px;
+            overflow: hidden;
+        }
+
+        .service-img img {
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+            transition: transform 0.5s ease;
+        }
+
+        .service-card:hover .service-img img {
+            transform: scale(1.1);
+        }
+
+        .service-content {
+            padding: 25px;
+        }
+
+        .service-content h3 {
+            color: var(--primary-color);
+            margin-bottom: 15px;
+            font-size: 1.5rem;
+        }
+
+        .service-content p {
+            color: var(--text-color);
+            margin-bottom: 20px;
+        }
+
+        .read-more {
+            color: var(--primary-color);
+            font-weight: 600;
+            display: inline-flex;
+            align-items: center;
+        }
+
+        .read-more i {
+            margin-left: 5px;
+            transition: transform 0.3s ease;
+        }
+
+        .read-more:hover i {
+            transform: translateX(5px);
+        }
+
+        .features-section {
+            background-color: var(--light-bg);
+            padding: 60px 0;
+            margin-bottom: 60px;
+        }
+
+        .features-container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 0 15px;
+        }
+
+        .features-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 30px;
+        }
+
+        .feature-item {
+            text-align: center;
+            padding: 30px 20px;
+        }
+
+        .feature-icon {
+            font-size: 2.5rem;
+            color: var(--primary-color);
+            margin-bottom: 20px;
+        }
+
+        .feature-item h3 {
+            margin-bottom: 15px;
+            color: var(--primary-color);
+        }
+
+        .testimonials-section {
+            margin-bottom: 60px;
+        }
+
+        .testimonials-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 30px;
+        }
+
+        .testimonial-card {
+            background: var(--white);
+            padding: 30px;
+            border-radius: 10px;
+            box-shadow: var(--box-shadow);
+        }
+
+        .testimonial-text {
+            font-style: italic;
+            margin-bottom: 20px;
+            position: relative;
+        }
+
+        .testimonial-text::before {
+            content: '"';
+            font-size: 4rem;
+            color: var(--primary-color);
+            opacity: 0.2;
+            position: absolute;
+            top: -20px;
+            left: -10px;
+        }
+
+        .testimonial-author {
+            display: flex;
+            align-items: center;
+        }
+
+        .author-img {
+            width: 60px;
+            height: 60px;
+            border-radius: 50%;
+            object-fit: cover;
+            margin-right: 15px;
+        }
+
+        .author-info h4 {
+            margin-bottom: 5px;
+            color: var(--primary-color);
+        }
+
+        .cta-section {
+            text-align: center;
+            padding: 80px 20px;
+            background: linear-gradient(rgba(46, 125, 50, 0.9), rgba(46, 125, 50, 0.9)), url('assets/images/cta-bg.jpg');
+            background-size: cover;
+            background-position: center;
+            color: white;
+            border-radius: 10px;
+            margin-bottom: 60px;
+        }
+
+        .cta-section h2 {
+            font-size: 2.5rem;
+            margin-bottom: 20px;
+        }
+
+        .cta-section p {
+            max-width: 700px;
+            margin: 0 auto 30px;
+            font-size: 1.1rem;
+        }
+
+        .cta-btn {
+            display: inline-block;
+            background-color: white;
+            color: var(--primary-color);
+            padding: 12px 30px;
+            border-radius: 5px;
+            font-weight: bold;
+            text-transform: uppercase;
+            transition: all 0.3s ease;
+        }
+
+        .cta-btn:hover {
+            background-color: #f0f0f0;
+            transform: translateY(-3px);
+            box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
+        }
+
+        @media (max-width: 768px) {
+            .services-hero {
+                padding: 60px 20px;
+            }
+            
+            .services-hero h1 {
+                font-size: 2.2rem;
+            }
+            
+            .services-grid {
+                grid-template-columns: 1fr;
+            }
+            
+            .section-title {
+                font-size: 1.8rem;
+            }
+            
+            .cta-section h2 {
+                font-size: 2rem;
+            }
+        }
+    </style>
+</head>
+
+<body>
+      <header class="header-style-two bg-primary-header">
+        <div class="header-top-area bg_primary">
+            <div class="container-2">
+                <div class="row">
+                    <div class="col-lg-12">
+                        <div class="bwtween-area-header-top">
+                            <div class="discount-area">
+                                <p class="disc">FREE delivery & 40% Discount for next 3 orders! Place your 1st order in.
+                                </p>
+                                <div class="countdown">
+                                    <div class="countDown"></div>
+                                </div>
+                            </div>
+                            <div class="contact-number-area">
+                                <p>Need help? Call Us:
+                                    <a href="#">70146 72284</a>
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="search-header-area-main  bg_primary">
+            <div class="container-2">
+                <div class="row">
+                    <div class="col-lg-12">
+                        <div class="logo-search-category-wrapper">
+                            <a href="/index.html" class="logo-area">
+                                <img src="assets/images/logo/logo-02.png" alt="logo-main" class="logo">
+                            </a>
+                            <div class="category-search-wrapper">
+                                <div class="category-btn category-hover-header">
+                                    <img class="parent" src="assets/images/icons/bar-1.svg" alt="icons">
+                                    <span>Categories</span>
+                                   
+                                </div>
+                                <form action="#" class="search-header">
+                                    <input type="text" placeholder="Search for products, categories" required="">
+                                    <a href="javascript: void(0);" class="rts-btn btn-primary radious-sm with-icon">
+                                        <div class="btn-text">
+                                            Search
+                                        </div>
+                                        <div class="arrow-icon">
+                                            <i class="fa-light fa-magnifying-glass"></i>
+                                        </div>
+                                        <div class="arrow-icon">
+                                            <i class="fa-light fa-magnifying-glass"></i>
+                                        </div>
+                                    </a>
+                                </form>
+                            </div>
+                            <div class="accont-wishlist-cart-area-header">
+                                <a href="#" class="btn-border-only account">
+                                    <i class="fa-light fa-user"></i>
+                                    Account
+                                </a>
+                                <a href="#" class="btn-border-only wishlist">
+                                    <i class="fa-regular fa-heart"></i>
+                                    Wishlist
+                                    <span class="number">2</span>
+                                </a>
+                                <div class="btn-border-only cart category-hover-header">
+                                    <i class="fa-sharp fa-regular fa-cart-shopping"></i>
+                                    <span class="text">My Cart</span>
+                                    <span class="number">2</span>
+                                    <div class="category-sub-menu card-number-show">
+                                        <h5 class="shopping-cart-number">Shopping Cart (03)</h5>
+                                        <div class="cart-item-1 border-top">
+                                            <div class="img-name">
+                                                <div class="thumbanil">
+                                                    <img src="assets/images/shop/cart-1.png" alt="">
+                                                </div>
+                                                <div class="details">
+                                                    <a href="shop-details.html">
+                                                        <h5 class="title">Foster Farms Breast Nuggets Shaped Chicken
+                                                        </h5>
+                                                    </a>
+                                                    <div class="number">
+                                                        1 <i class="fa-regular fa-x"></i>
+                                                        <span>$36.00</span>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="close-c1">
+                                                <i class="fa-regular fa-x"></i>
+                                            </div>
+                                        </div>
+                                        <div class="cart-item-1">
+                                            <div class="img-name">
+                                                <div class="thumbanil">
+                                                    <img src="assets/images/shop/05.png" alt="">
+                                                </div>
+                                                <div class="details">
+                                                    <a href="shop-details.html">
+                                                        <h5 class="title">Foster Farms Breast Nuggets Shaped Chicken
+                                                        </h5>
+                                                    </a>
+                                                    <div class="number">
+                                                        1 <i class="fa-regular fa-x"></i>
+                                                        <span>$36.00</span>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="close-c1">
+                                                <i class="fa-regular fa-x"></i>
+                                            </div>
+                                        </div>
+                                        <div class="cart-item-1">
+                                            <div class="img-name">
+                                                <div class="thumbanil">
+                                                    <img src="assets/images/shop/04.png" alt="">
+                                                </div>
+                                                <div class="details">
+                                                    <a href="shop-details.html">
+                                                        <h5 class="title">Foster Farms Breast Nuggets Shaped Chicken
+                                                        </h5>
+                                                    </a>
+                                                    <div class="number">
+                                                        1 <i class="fa-regular fa-x"></i>
+                                                        <span>$36.00</span>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="close-c1">
+                                                <i class="fa-regular fa-x"></i>
+                                            </div>
+                                        </div>
+                                        <div class="sub-total-cart-balance">
+                                            <div class="bottom-content-deals mt--10">
+                                                <div class="top">
+                                                    <span>Sub Total:</span>
+                                                    <span class="number-c">$108.00</span>
+                                                </div>
+                                                <div class="single-progress-area-incard">
+                                                    <div class="progress">
+                                                        <div class="progress-bar wow fadeInLeft" role="progressbar"
+                                                            style="width: 80%" aria-valuenow="25" aria-valuemin="0"
+                                                            aria-valuemax="100"></div>
+                                                    </div>
+                                                </div>
+                                                <p>Spend More <span>$125.00</span> to reach <span>Free Shipping</span>
+                                                </p>
+                                            </div>
+                                            <div
+                                                class="button-wrapper d-flex align-items-center justify-content-between">
+                                                <a href="cart.html" class="rts-btn btn-primary ">View Cart</a>
+                                                <a href="checkout.html"
+                                                    class="rts-btn btn-primary border-only">CheckOut</a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <a href="cart.html" class="over_link"></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="rts-header-nav-area-one header--sticky">
+            <div class="container-2">
+                <div class="row">
+                    <div class="col-lg-12">
+                        <div class="nav-and-btn-wrapper">
+                            <div class="nav-area">
+                                <nav>
+                                    <ul class="parent-nav">
+                                        <li class="parent has-dropdown">
+                                            <a class="nav-link" href="/index.html">Home</a>
+                                            <ul class="submenu">
+           
+                                            </ul>
+                                        </li>
+                                        <li class="parent"><a href="about.html">About</a></li>
+                                        
+                                      
+                                        
+                                        
+                                        <li class="parent"><a href="contact.html">Contact</a></li>
+                                    </ul>
+                                </nav>
+                            </div>
+                            <!-- button-area -->
+
+                            <!-- button-area end -->
+                        </div>
+                        <div class="logo-search-category-wrapper">
+                            <a href="/index.html" class="logo-area">
+                                <img src="assets/images/logo/logo-01.svg" alt="logo-main" class="logo">
+                            </a>
+                            <div class="category-search-wrapper">
+                                <div class="category-btn category-hover-header">
+                                    <img class="parent" src="assets/images/icons/bar-1.svg" alt="icons">
+                                    <span>Categories</span>
+                                    <ul class="category-sub-menu">
+                                        <li>
+                                            <a href="#" class="menu-item">
+                                                <img src="assets/images/icons/01.svg" alt="icons">
+                                                <span>Breakfast &amp; Dairy</span>
+                                                <i class="fa-regular fa-plus"></i>
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a href="#" class="menu-item">
+                                                <img src="assets/images/icons/02.svg" alt="icons">
+                                                <span>Meats &amp; Seafood</span>
+                                                <i class="fa-regular fa-plus"></i>
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a href="#" class="menu-item">
+                                                <img src="assets/images/icons/03.svg" alt="icons">
+                                                <span>Breads &amp; Bakery</span>
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a href="#" class="menu-item">
+                                                <img src="assets/images/icons/04.svg" alt="icons">
+                                                <span>Chips &amp; Snacks</span>
+                                                <i class="fa-regular fa-plus"></i>
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a href="#" class="menu-item">
+                                                <img src="assets/images/icons/05.svg" alt="icons">
+                                                <span>Medical Healthcare</span>
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a href="#" class="menu-item">
+                                                <img src="assets/images/icons/06.svg" alt="icons">
+                                                <span>Breads &amp; Bakery</span>
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a href="#" class="menu-item">
+                                                <img src="assets/images/icons/07.svg" alt="icons">
+                                                <span>Biscuits &amp; Snacks</span>
+                                                <i class="fa-regular fa-plus"></i>
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a href="#" class="menu-item">
+                                                <img src="assets/images/icons/08.svg" alt="icons">
+                                                <span>Frozen Foods</span>
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a href="#" class="menu-item">
+                                                <img src="assets/images/icons/09.svg" alt="icons">
+                                                <span>Grocery &amp; Staples</span>
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a href="#" class="menu-item">
+                                                <img src="assets/images/icons/10.svg" alt="icons">
+                                                <span>Other Items</span>
+                                            </a>
+                                        </li>
+                                    </ul>
+                                </div>
+                                <form action="#" class="search-header">
+                                    <input type="text" placeholder="Search for products, categories" required="">
+                                    <a href="javascript:void(0);" class="rts-btn btn-primary radious-sm with-icon">
+                                        <div class="btn-text">
+                                            Search
+                                        </div>
+                                        <div class="arrow-icon">
+                                            <i class="fa-light fa-magnifying-glass"></i>
+                                        </div>
+                                        <div class="arrow-icon">
+                                            <i class="fa-light fa-magnifying-glass"></i>
+                                        </div>
+                                    </a>
+                                </form>
+                            </div>
+                            <div class="main-wrapper-action-2 d-flex">
+                                <div class="accont-wishlist-cart-area-header">
+                                    <a href="account.html" class="btn-border-only account">
+                                        <i class="fa-light fa-user"></i>
+                                        Account
+                                    </a>
+                                    <a href="wishlist.html" class="btn-border-only wishlist">
+                                        <i class="fa-regular fa-heart"></i>
+                                        Wishlist
+                                    </a>
+                                    <div class="btn-border-only cart category-hover-header">
+                                        <i class="fa-sharp fa-regular fa-cart-shopping"></i>
+                                        <span class="text">My Cart</span>
+                                        <div class="category-sub-menu card-number-show">
+                                            <h5 class="shopping-cart-number">Shopping Cart (03)</h5>
+                                            <div class="cart-item-1 border-top">
+                                                <div class="img-name">
+                                                    <div class="thumbanil">
+                                                        <img src="assets/images/shop/cart-1.png" alt="">
+                                                    </div>
+                                                    <div class="details">
+                                                        <a href="shop-details.html">
+                                                            <h5 class="title">Foster Farms Breast Nuggets Shaped Chicken
+                                                            </h5>
+                                                        </a>
+                                                        <div class="number">
+                                                            1 <i class="fa-regular fa-x"></i>
+                                                            <span>$36.00</span>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <div class="close-c1">
+                                                    <i class="fa-regular fa-x"></i>
+                                                </div>
+                                            </div>
+                                            <div class="cart-item-1">
+                                                <div class="img-name">
+                                                    <div class="thumbanil">
+                                                        <img src="assets/images/shop/05.png" alt="">
+                                                    </div>
+                                                    <div class="details">
+                                                        <a href="shop-details.html">
+                                                            <h5 class="title">Foster Farms Breast Nuggets Shaped Chicken
+                                                            </h5>
+                                                        </a>
+                                                        <div class="number">
+                                                            1 <i class="fa-regular fa-x"></i>
+                                                            <span>$36.00</span>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <div class="close-c1">
+                                                    <i class="fa-regular fa-x"></i>
+                                                </div>
+                                            </div>
+                                            <div class="cart-item-1">
+                                                <div class="img-name">
+                                                    <div class="thumbanil">
+                                                        <img src="assets/images/shop/04.png" alt="">
+                                                    </div>
+                                                    <div class="details">
+                                                        <a href="shop-details.html">
+                                                            <h5 class="title">Foster Farms Breast Nuggets Shaped Chicken
+                                                            </h5>
+                                                        </a>
+                                                        <div class="number">
+                                                            1 <i class="fa-regular fa-x"></i>
+                                                            <span>$36.00</span>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <div class="close-c1">
+                                                    <i class="fa-regular fa-x"></i>
+                                                </div>
+                                            </div>
+                                            <div class="sub-total-cart-balance">
+                                                <div class="bottom-content-deals mt--10">
+                                                    <div class="top">
+                                                        <span>Sub Total:</span>
+                                                        <span class="number-c">$108.00</span>
+                                                    </div>
+                                                    <div class="single-progress-area-incard">
+                                                        <div class="progress">
+                                                            <div class="progress-bar wow fadeInLeft" role="progressbar"
+                                                                style="width: 80%" aria-valuenow="25" aria-valuemin="0"
+                                                                aria-valuemax="100"></div>
+                                                        </div>
+                                                    </div>
+                                                    <p>Spend More <span>$125.00</span> to reach <span>Free
+                                                            Shipping</span></p>
+                                                </div>
+                                                <div
+                                                    class="button-wrapper d-flex align-items-center justify-content-between">
+                                                    <a href="cart.html" class="rts-btn btn-primary ">View Cart</a>
+                                                    <a href="checkout.html"
+                                                        class="rts-btn btn-primary border-only">CheckOut</a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <a href="cart.html" class="over_link"></a>
+                                    </div>
+                                </div>
+                                <div class="actions-area">
+                                    <div class="search-btn" id="search">
+
+                                        <svg width="17" height="16" viewBox="0 0 17 16" fill="none"
+                                            xmlns="http://www.w3.org/2000/svg">
+                                            <path
+                                                d="M15.75 14.7188L11.5625 10.5312C12.4688 9.4375 12.9688 8.03125 12.9688 6.5C12.9688 2.9375 10.0312 0 6.46875 0C2.875 0 0 2.9375 0 6.5C0 10.0938 2.90625 13 6.46875 13C7.96875 13 9.375 12.5 10.5 11.5938L14.6875 15.7812C14.8438 15.9375 15.0312 16 15.25 16C15.4375 16 15.625 15.9375 15.75 15.7812C16.0625 15.5 16.0625 15.0312 15.75 14.7188ZM1.5 6.5C1.5 3.75 3.71875 1.5 6.5 1.5C9.25 1.5 11.5 3.75 11.5 6.5C11.5 9.28125 9.25 11.5 6.5 11.5C3.71875 11.5 1.5 9.28125 1.5 6.5Z"
+                                                fill="#1F1F25"></path>
+                                        </svg>
+
+                                    </div>
+                                    <div class="menu-btn" id="menu-btn">
+
+                                        <svg width="20" height="16" viewBox="0 0 20 16" fill="none"
+                                            xmlns="http://www.w3.org/2000/svg">
+                                            <rect y="14" width="20" height="2" fill="#1F1F25"></rect>
+                                            <rect y="7" width="20" height="2" fill="#1F1F25"></rect>
+                                            <rect width="20" height="2" fill="#1F1F25"></rect>
+                                        </svg>
+
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </header>
+    <!-- Your existing header code here -->
+    
+    <div class="services-container">
+        <section class="services-hero">
+            <h1>Our Premium Agricultural Services</h1>
+            <p>Delivering excellence in agricultural products and services to farmers, retailers, and consumers across India</p>
+        </section>
+
+        <h2 class="section-title">Our Core Services</h2>
+        
+        <div class="services-grid">
+            <div class="service-card">
+                <div class="service-img">
+                    <img src="assets/images/01.jpg" alt="Farm Fresh Produce">
+                </div>
+                <div class="service-content">
+                    <h3>Farm Fresh Produce Supply</h3>
+                    <p>Direct from farm to your doorstep, we provide the freshest fruits, vegetables, and grains with guaranteed quality and competitive pricing.</p>
+                    <a href="#" class="read-more">Learn more <i class="fas fa-arrow-right"></i></a>
+                </div>
+            </div>
+            
+            <div class="service-card">
+                <div class="service-img">
+                    <img src="assets/images/021.jpg" alt="Bulk Procurement">
+                </div>
+                <div class="service-content">
+                    <h3>Bulk Procurement Solutions</h3>
+                    <p>Specialized services for retailers, restaurants, and institutions with volume discounts and customized delivery schedules.</p>
+                    <a href="#" class="read-more">Learn more <i class="fas fa-arrow-right"></i></a>
+                </div>
+            </div>
+            
+            <div class="service-card">
+                <div class="service-img">
+                    <img src="assets/images/05.jpg" alt="Organic Products">
+                </div>
+                <div class="service-content">
+                    <h3>Certified Organic Products</h3>
+                    <p>Wide range of certified organic agricultural products with complete traceability from farm to consumer.</p>
+                    <a href="#" class="read-more">Learn more <i class="fas fa-arrow-right"></i></a>
+                </div>
+            </div>
+            
+            <div class="service-card">
+                <div class="service-img">
+                    <img src="assets/images/ewgrgr.jpg" alt="Cold Chain Logistics">
+                </div>
+                <div class="service-content">
+                    <h3>Cold Chain Logistics</h3>
+                    <p>Temperature-controlled storage and transportation to maintain freshness and extend shelf life of perishable goods.</p>
+                    <a href="#" class="read-more">Learn more <i class="fas fa-arrow-right"></i></a>
+                </div>
+            </div>
+            
+            <div class="service-card">
+                <div class="service-img">
+                    <img src="assets/images/06.jpg" alt="Export Services">
+                </div>
+                <div class="service-content">
+                    <h3>Agricultural Export Services</h3>
+                    <p>Comprehensive export solutions including quality checks, documentation, and international logistics for global markets.</p>
+                    <a href="#" class="read-more">Learn more <i class="fas fa-arrow-right"></i></a>
+                </div>
+            </div>
+            
+            <div class="service-card">
+                <div class="service-img">
+                    <img src="assets/images/the-image.jpg" alt="Farm Technology">
+                </div>
+                <div class="service-content">
+                    <h3>Farm Technology Solutions</h3>
+                    <p>Modern agricultural technologies and consulting services to improve yield, quality, and sustainability.</p>
+                    <a href="#" class="read-more">Learn more <i class="fas fa-arrow-right"></i></a>
+                </div>
+            </div>
+        </div>
+
+        <div class="features-section">
+            <div class="features-container">
+                <h2 class="section-title" style="color: var(--primary-color);">Why Choose Our Services</h2>
+                
+                <div class="features-grid">
+                    <div class="feature-item">
+                        <div class="feature-icon">
+                            <i class="fas fa-award"></i>
+                        </div>
+                        <h3>Quality Assurance</h3>
+                        <p>Rigorous quality checks at every stage to ensure only the best products reach you.</p>
+                    </div>
+                    
+                    <div class="feature-item">
+                        <div class="feature-icon">
+                            <i class="fas fa-truck-fast"></i>
+                        </div>
+                        <h3>Fast Delivery</h3>
+                        <p>Efficient logistics network for timely delivery across India.</p>
+                    </div>
+                    
+                    <div class="feature-item">
+                        <div class="feature-icon">
+                            <i class="fas fa-rupee-sign"></i>
+                        </div>
+                        <h3>Competitive Pricing</h3>
+                        <p>Direct farm connections eliminate middlemen for better prices.</p>
+                    </div>
+                    
+                    <div class="feature-item">
+                        <div class="feature-icon">
+                            <i class="fas fa-headset"></i>
+                        </div>
+                        <h3>24/7 Support</h3>
+                        <p>Dedicated customer service team always ready to assist.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="testimonials-section">
+            <h2 class="section-title">What Our Clients Say</h2>
+            
+            <div class="testimonials-grid">
+                <div class="testimonial-card">
+                    <div class="testimonial-text">
+                        <p>The quality of produce we receive from VIKJAN GROOT is consistently excellent. Their cold chain logistics ensure our vegetables arrive fresh every time.</p>
+                    </div>
+                    <div class="testimonial-author">
+                        <img src="assets/images/client1.jpg" alt="Ramesh Patel" class="author-img">
+                        <div class="author-info">
+                            <h4>Ramesh Patel</h4>
+                            <p>Patel Fresh Mart, Gujarat</p>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="testimonial-card">
+                    <div class="testimonial-text">
+                        <p>As a restaurant chain, their bulk procurement service has simplified our supply chain while reducing costs by 20%. Highly recommended!</p>
+                    </div>
+                    <div class="testimonial-author">
+                        <img src="assets/images/client2.jpg" alt="Priya Sharma" class="author-img">
+                        <div class="author-info">
+                            <h4>Priya Sharma</h4>
+                            <p>Green Bites Restaurants, Delhi</p>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="testimonial-card">
+                    <div class="testimonial-text">
+                        <p>Their export documentation services made our first international shipment hassle-free. We've since expanded to 3 new countries with their help.</p>
+                    </div>
+                    <div class="testimonial-author">
+                        <img src="assets/images/client3.jpg" alt="Arjun Reddy" class="author-img">
+                        <div class="author-info">
+                            <h4>Arjun Reddy</h4>
+                            <p>Reddy Organic Farms, Karnataka</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="cta-section">
+            <h2>Ready to Experience Our Services?</h2>
+            <p>Join thousands of satisfied customers who trust VIKJAN GROOT for their agricultural needs.</p>
+            <a href="contact.html" class="cta-btn">Contact Us Today</a>
+        </div>
+    </div>
+<div class="rts-footer-area-two">
+        <div class="container-2">
+            <div class="row">
+                <div class="coll-lg-12">
+                    <div class="footer-two-main-wrapper">
+                        <div class="footer-single-wixed-two start">
+                            <a href="/index.html" class="logo-area">
+                                <img src="assets/images/logo/01.png" alt="logo-area" class="logo">
+                            </a>
+                            
+                            <p class="disc">
+                                  Committed to delivering innovative, sustainable, and quality agricultural solutions for a better tomorrow.
+                            </p>
+                            <form action="#">
+                                <input type="email" placeholder="Email Address" required>
+                                <button class="rts-btn btn-primary"><i class="fa-light fa-arrow-right"></i></button>
+                            </form>
+                            <div class="social-style-dash">
+                                <ul>
+                                    <li><a href="#"><i class="fa-brands fa-facebook-f"></i></a></li>
+                                    <li><a href="#"><i class="fa-brands fa-twitter"></i></a></li>
+                                    <li><a href="#"><i class="fa-brands fa-linkedin-in"></i></a></li>
+                                    <li><a href="#"><i class="fa-brands fa-youtube"></i></a></li>
+                                    <li><a href="#"><i class="fa-brands fa-instagram"></i></a></li>
+                                </ul>
+                            </div>
+                        </div>
+                        <div class="single-footer-wized mid">
+                            <h3 class="footer-title">Our Stores</h3>
+                            <div class="footer-nav">
+                                <ul>
+                                    <li><a href="Return Policy.html">Return Policy</a></li>
+                                    <li><a href="privacy_policy.html">Privacy Policy</a></li>
+                                    <li><a href="#">Seller Terms and Conditions</a></li> 
+                                    <li><a href="Shipping_Delivery.html">Shipping / Delivery</a></li>
+                                    <li><a href="cancollection.html">Cancellation Policy</a></li>
+                                    <li><a href="FAq.htm">FAQ</a></li>
+                                    <li><a href="Seller Terms.html">Seller Terms and Conditions</a></li> 
+                                </ul>
+                            </div>
+                        </div>
+                        <div class="single-footer-wized mid">
+                            <h3 class="footer-title">Services</h3>
+                            <div class="footer-nav">
+                                <ul>
+                                     <li><a href="Sell on AgriBegri.html">Sell on AgriBegri</a></li>
+                                    <li><a href="best-services.html">Best Services</a></li>
+                                    <li><a href="sitemap.html">Sitemap</a></li>
+                                    <li><a href="#">Customer Login</a></li>
+
+                                </ul>
+                            </div>
+                        </div>
+                        <div class="single-footer-wized">
+                            <h3 class="footer-title">Need Help? / Contact Us</h3>
+                            <div class="contact-information">
+                                <!-- single contact information -->
+                                <div class="single-contact-information-area">
+                                    <div class="icon-area">
+                                        <img src="assets/images/icons/11.svg" alt="icons">
+                                    </div>
+                                    <div class="information-area">
+                                       <p class="disc">
+                                           Khasoli, Churu, Rajasthan - 33100
+                                        </p>
+                                    </div>
+                                </div>
+                                <!-- single contact information emd -->
+                                <!-- single contact information -->
+                                <div class="single-contact-information-area">
+                                    <div class="icon-area">
+                                        <img src="assets/images/icons/12.svg" alt="icons">
+                                    </div>
+                                    <div class="information-area">
+                                        <p class="disc">
+                                            Call us between 8:00 AM - 12PM <br>
+                                            <a href="#">70146 72284</a>
+                                        </p>
+                                    </div>
+                                </div>
+                                <!-- single contact information emd -->
+                                <!-- single contact information -->
+                                <div class="single-contact-information-area">
+                                    <div class="icon-area">
+                                        <img src="assets/images/icons/13.svg" alt="icons">
+                                    </div>
+                                    <div class="information-area">
+                                        <p class="disc">
+                                            Live Chat <br>
+                                            <span>Chat With an Experts</span>
+                                        </p>
+                                    </div>
+                                </div>
+                                <!-- single contact information emd -->
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+        <div class="rts-copyright-area-two">
+        <div class="container-2">
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class="copyright-arae-two-wrapper">
+                        <p class="disc" style="text-align: center;">
+                          Copyright © 2024 VIKJAN GROOT AGRICULTURAL PRODUCTS (OPC) PRIVATE LIMITED. All rights reserved.
+                        </p>
+                        <!--<div class="payment-processw-area">
+                            <span>Payment Accepts:</span>
+                            <img src="assets/images/payment/04.png" alt="payment">
+                        </div>-->
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Your existing footer code here -->
+
+    <script>
+        // Simple animation for service cards when they come into view
+        const observer = new IntersectionObserver((entries) => {
+            entries.forEach(entry => {
+                if (entry.isIntersecting) {
+                    entry.target.style.opacity = 1;
+                    entry.target.style.transform = 'translateY(0)';
+                }
+            });
+        }, { threshold: 0.1 });
+
+        document.querySelectorAll('.service-card').forEach(card => {
+            card.style.opacity = 0;
+            card.style.transform = 'translateY(20px)';
+            card.style.transition = 'opacity 0.5s ease, transform 0.5s ease';
+            observer.observe(card);
+        });
+    </script>
+</body>
+</html>
